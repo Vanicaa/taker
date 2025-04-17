@@ -2043,3 +2043,16 @@
 4/17/2025 | 12:21:41 PM | INFO | Trying to check user miner status... 
 4/17/2025 | 12:21:42 PM | INFO | Last mining time: 4/16/2025, 12:22:03 PM
 4/17/2025 | 12:21:42 PM | WARN | Mining already started, next mining time is: 4/17/2025, 12:22:03 PM
+4/17/2025 | 4:14:18 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 4:14:18 PM | INFO | Start process for wallet 0x15A609893dAB7473904EDE9E95873B877158dADc 
+4/17/2025 | 4:14:19 PM | INFO | Trying To Login for wallet: 0x15A609893dAB7473904EDE9E95873B877158dADc 
+4/17/2025 | 4:14:19 PM | INFO | Login successful... 
+4/17/2025 | 4:14:19 PM | INFO | Trying to check user info... 
+4/17/2025 | 4:14:20 PM | INFO | User ID: 103502821 | Twitter: @gvanicaa | Total Points: 1370680 
+4/17/2025 | 4:14:20 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 4:14:29 PM | INFO | Last mining time: 4/16/2025, 12:22:03 PM
+4/17/2025 | 4:14:29 PM | INFO | Trying to start Mining for wallet: 0x15A609893dAB7473904EDE9E95873B877158dADc 
+4/17/2025 | 4:14:33 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 4:14:33 PM | INFO | Trying to activate mining on-chain for wallet: 0x15A609893dAB7473904EDE9E95873B877158dADc 
+4/17/2025 | 4:15:14 PM | ERROR | Activate Mining Error: {"errno":-104,"code":"ECONNRESET","syscall":"read"}
+4/17/2025 | 4:15:14 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
