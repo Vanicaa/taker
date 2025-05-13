@@ -3489,3 +3489,15 @@
 5/12/2025 | 8:13:29 PM | INFO | Trying to activate mining on-chain for wallet: 0x15A609893dAB7473904EDE9E95873B877158dADc 
 5/12/2025 | 8:14:07 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/12/2025 | 8:14:07 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/13/2025 | 12:57:58 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 12:57:58 AM | INFO | Start process for wallet 0x15A609893dAB7473904EDE9E95873B877158dADc 
+5/13/2025 | 12:57:58 AM | INFO | Trying To Login for wallet: 0x15A609893dAB7473904EDE9E95873B877158dADc 
+5/13/2025 | 12:57:59 AM | INFO | Login successful... 
+5/13/2025 | 12:57:59 AM | INFO | Trying to check user info... 
+5/13/2025 | 12:58:00 AM | INFO | User ID: 103502821 | Twitter: @gvanicaa | Total Points: 1922680 
+5/13/2025 | 12:58:00 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 12:58:03 AM | INFO | Last mining time: 5/11/2025, 8:11:54 PM
+5/13/2025 | 12:58:03 AM | INFO | Trying to start Mining for wallet: 0x15A609893dAB7473904EDE9E95873B877158dADc 
+5/13/2025 | 12:58:04 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/13/2025 | 12:58:04 AM | INFO | Trying to activate mining on-chain for wallet: 0x15A609893dAB7473904EDE9E95873B877158dADc 
+5/13/2025 | 12:58:42 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x38f23e810bb54e0dd501de0886a4f3573848a8f8162e5f4a58d505e6fd70ba25 
