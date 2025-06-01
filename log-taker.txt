@@ -4593,3 +4593,12 @@
 5/31/2025 | 8:11:44 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/31/2025 | 8:11:44 PM | INFO | Trying to activate mining on-chain for wallet: 0x15A609893dAB7473904EDE9E95873B877158dADc 
 5/31/2025 | 8:11:55 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x30975f722cfbd9701fd75cccc02f17a04cd36a8a2937137ec0364d93c9378df3 
+6/1/2025 | 1:10:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/1/2025 | 1:10:21 AM | INFO | Start process for wallet 0x15A609893dAB7473904EDE9E95873B877158dADc 
+6/1/2025 | 1:10:21 AM | INFO | Trying To Login for wallet: 0x15A609893dAB7473904EDE9E95873B877158dADc 
+6/1/2025 | 1:10:22 AM | INFO | Login successful... 
+6/1/2025 | 1:10:22 AM | INFO | Trying to check user info... 
+6/1/2025 | 1:10:22 AM | INFO | User ID: 103502821 | Twitter: @gvanicaa | Total Points: 2330680 
+6/1/2025 | 1:10:22 AM | INFO | Trying to check user miner status... 
+6/1/2025 | 1:10:23 AM | INFO | Last mining time: 5/31/2025, 8:11:51 PM
+6/1/2025 | 1:10:23 AM | WARN | Mining already started, next mining time is: 6/1/2025, 8:11:51 PM
